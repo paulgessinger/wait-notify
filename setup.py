@@ -12,7 +12,7 @@ setup(
     name="wait-notify",
     use_scm_version=True,
     setup_requires=["setuptools_scm"],
-    description="Batch job submission and management tool",
+    description="",
     long_description=long_desc,
     long_description_content_type='text/markdown',
     url="http://github.com/paulgessinger/wait-notify",
